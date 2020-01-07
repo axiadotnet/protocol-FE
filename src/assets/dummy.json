@@ -1,0 +1,32 @@
+[
+    {
+        "protId": "112122012",
+        "sendingDate": "07/12/2012",
+        "receivingDate": "12/12/2012",
+        "type": 0,
+        "sender" : "pippo",
+        "receiver" : "paperino",
+        "subject"  : "festa di paperopoli",
+        "attachmentsNumber" : 3
+    },
+    {
+        "protId": "201012013",
+        "sendingDate": "01/01/2012",
+        "receivingDate": "",
+        "type": 1,
+        "sender" : "paperino",
+        "receiver" : "pippo",
+        "subject"  : "re: festa di paperopoli",
+        "attachmentsNumber" : 1
+    },
+    {
+        "protId": "303012013",
+        "sendingDate": "03/01/2012",
+        "receivingDate": "03/01/2012",
+        "type": 2,
+        "sender" : "pippo",
+        "receiver" : "topolino",
+        "subject"  : "fw: festa di paperopoli",
+        "attachmentsNumber" : 3
+    }
+]
